@@ -8,6 +8,6 @@ coverage/
 dev.db
 dev.db-journal
 
-/generated/prisma
+api/generated/prisma/
 npm-debug.log*
-prisma/migrations/
+api/prisma/migrations/
