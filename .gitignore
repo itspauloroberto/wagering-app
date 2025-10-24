@@ -1,0 +1,13 @@
+node_modules/
+dist/
+coverage/
+.DS_Store
+
+# Keep environment variables and local databases out of version control
+.env
+dev.db
+dev.db-journal
+
+/generated/prisma
+npm-debug.log*
+prisma/migrations/
